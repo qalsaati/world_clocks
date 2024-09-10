@@ -1,4 +1,4 @@
-# Rocket Academy Coding Bootcamp: World Clock
+# World Clock
 
 ## Available Scripts
 
